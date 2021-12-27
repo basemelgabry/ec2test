@@ -1,0 +1,6 @@
+udo yum remove wget
+sudo yum install wget
+sudo yum install httpd
+
+sudo yum list installed | grep httpd
+

@@ -1,0 +1,7 @@
+udo systemctl status httpd
+sudo systemctl start httpd
+sudo systemctl stop httpd
+sudo systemctl enable httpd
+sudo systemctl disable httpd
+sudo systemctl restart httpd
+

@@ -1,0 +1,4 @@
+generic-logos-httpd.noarch            18.0.0-4.amzn2                 @amzn2-core
+httpd.x86_64                          2.4.51-1.amzn2                 @amzn2-core
+httpd-filesystem.noarch               2.4.51-1.amzn2                 @amzn2-core
+httpd-tools.x86_64                    2.4.51-1.amzn2                 @amzn2-core

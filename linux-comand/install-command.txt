@@ -1,0 +1,20 @@
+install Ansible on CentOS 7
+
+#Update the System
+sudo yum -y update
+
+#install EPEL repository into the system as Ansible is available in default YUM
+sudo yum install epel-release
+
+sudo yum install ansible
+
+# New insible in amazon-linux-extras
+sudo amazon-linux-extras install ansible2
+
+##########################################################
+
+install Git
+
+sudo yum install git
+
+======================================
